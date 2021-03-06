@@ -1,3 +1,4 @@
+print('if you want a sub strings possible with each letter atleast 2 times. Please refer to greatstrings2.py\n')
 
 def loop(i, s, d):
     c = 0
